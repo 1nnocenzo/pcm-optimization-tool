@@ -1,5 +1,5 @@
 # Framework for reducing Mid-circuit Measurements and Resets in Dynamic Circuits
-This project implements the method for reducing the number of mid-circuit measurements and resets in dynamic circuits proposet in the paper [Reducing Mid-Circuit Measurements via Probabilistic Circuits](https://arxiv.org/abs/2405.13747) and then extend it to a framework in the paper [*under review*](#).
+This project implements the method for reducing the number of mid-circuit measurements and resets in dynamic circuits proposet in the paper [Reducing Mid-Circuit Measurements via Probabilistic Circuits](https://arxiv.org/abs/2405.13747) and then extend it to a framework in the paper [Optimization Framework for Reducing Mid-circuit Measurements and Resets](https://link.springer.com/chapter/10.1007/978-3-031-97570-7_13).
 
 ## Usage
 This framework takes as input a file containing a quantum circuit written in QASM 2.0 format and gives as output a QASM file containing the optimized circuit.
